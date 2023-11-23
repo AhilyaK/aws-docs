@@ -6,3 +6,4 @@ Before working through these, make sure you have the the below:
 
 
 User Story 3 is written for slightly more advanced users. 
+
