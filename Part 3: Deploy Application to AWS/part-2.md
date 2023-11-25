@@ -1,4 +1,4 @@
-Part 2 covers:
+## Deploy your application Part 2 
 
 1. Transfer the file from the S3 bucket to the EC2 instance.
 2. Run the application
