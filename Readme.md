@@ -19,6 +19,11 @@ Part 3 is for intermediate-level developers who know the basics of AWS and want 
     * [Enable Multi-Factor Authentication](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/3.%20enable%20multi-factor%20authentication.md)
     * [Set up CLI](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/4.%20set-up-cli.md)
     * [Create EC2 instance](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/5.%20create-EC2-instance.md)   
-* [Installation](#installation)
-* [Collaboration](#collaboration)
-* [FAQs](#faqs)
+* [Part 1: Set up Billing Alerts](#installation)
+    * [What is a free tier]
+    * [Enable billing alerts and alarms]
+    * [Create a cost widget on the dashboard]
+* [Part 3: Deploy Application to AWS](#collaboration)
+    * [part-1]
+    * [part-2]
+
