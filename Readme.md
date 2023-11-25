@@ -4,4 +4,4 @@ providing highly reliable, scalable, and low-cost IT resources to individuals an
 over the internet. AWS is comprised of a large library of services aimed at fulfilling several
 requirements of modern industries.
 
-This project is focused on documenting how to get started, how to set up billing alerts, and how to deploy an application to AWS, in detail.
+This documentation is created to enable users to begin their AWS journey, set up the environment, and deploy their first application to cloud, all while being secure and cost-effective, 
