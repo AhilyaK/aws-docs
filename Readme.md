@@ -25,5 +25,5 @@ Part 3 is for intermediate-level developers who know the basics of AWS and want 
     * [Create a cost widget on the dashboard](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/3.%20create-a-cost-widget-on-the-dashboard.md)
 * [Part 3: Deploy Application to AWS](https://github.com/AhilyaK/awsdocs/tree/main/Part%203%3A%20Deploy%20Application%20to%20AWS)
     * [Deploy - Part 1](https://github.com/AhilyaK/aws-docs/blob/main/Part%203:%20Deploy%20Application%20to%20AWS/1.%20deploy-part-1.md)
-    * [Deploy - Part 2](https://github.com/AhilyaK/aws-docs/blob/main/Part%203%3A%20Deploy%20Application%20to%20AWS/2.%20part-2.md)
+    * [Deploy - Part 2](https://github.com/AhilyaK/aws-docs/blob/main/Part%203:%20Deploy%20Application%20to%20AWS/2.%20deploy-part-2.md)
 
