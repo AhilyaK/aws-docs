@@ -13,7 +13,7 @@ Part 3 is for intermediate-level developers who know the basics of AWS and want 
 ## Table of Contents
 * [Before you start](https://github.com/AhilyaK/aws-docs/tree/main/Before%20you%20start)
     * [prerequisites](prerequisites.md)
-* [Part 1: Complete Day 1 Checklist](#)
+* [Part 1: Complete Day 1 Checklist]((https://github.com/AhilyaK/aws-docs/tree/main/Part%201%3A%20Complete%20Day%201%20Checklist)https://github.com/AhilyaK/aws-docs/tree/main/Part%201%3A%20Complete%20Day%201%20Checklist)
 * [Installation](#installation)
 * [Collaboration](#collaboration)
 * [FAQs](#faqs)
