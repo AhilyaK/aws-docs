@@ -19,11 +19,11 @@ Part 3 is for intermediate-level developers who know the basics of AWS and want 
     * [Enable Multi-Factor Authentication](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/3.%20enable%20multi-factor%20authentication.md)
     * [Set up CLI](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/4.%20set-up-cli.md)
     * [Create EC2 instance](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/5.%20create-EC2-instance.md)   
-* [Part 1: Set up Billing Alerts](#installation)
-    * [What is a free tier]
-    * [Enable billing alerts and alarms]
-    * [Create a cost widget on the dashboard]
-* [Part 3: Deploy Application to AWS](#collaboration)
-    * [part-1]
-    * [part-2]
+* [Part 2: Set up Billing Alerts](#installation)
+    * [What is a free tier](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/1.%20what-is-a-free-tier.md)
+    * [Enable billing alerts and alarms](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/2.%20enable-billing-alerts-and-alarms.md)
+    * [Create a cost widget on the dashboard](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/3.%20create-a-cost-widget-on-the-dashboard.md)
+* [Part 3: Deploy Application to AWS](https://github.com/AhilyaK/awsdocs/tree/main/Part%203%3A%20Deploy%20Application%20to%20AWS)
+    * [Deploy - Part 1](https://github.com/AhilyaK/aws-docs/blob/main/Part%203%3A%20Deploy%20Application%20to%20AWS/1.%20part-1.md)
+    * [Deploy - Part 2](https://github.com/AhilyaK/aws-docs/blob/main/Part%203%3A%20Deploy%20Application%20to%20AWS/2.%20part-2.md)
 
