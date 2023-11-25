@@ -9,3 +9,6 @@ Parts 1 and 2 are for enabling entry-level developers get started with AWS, set 
 Part 3 is for intermediate-level developers who know the basics of AWS and want to see it action. It focuses on detailed procedures to transfer code from their local machine to cloud.
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## Table of contents
+
