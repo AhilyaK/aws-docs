@@ -10,5 +10,9 @@ Part 3 is for intermediate-level developers who know the basics of AWS and want 
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Table of contents
-
+## Table of Contents
+1. [Before you start](prerequisites.md)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
