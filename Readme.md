@@ -8,7 +8,7 @@ This documentation consists of three parts, targeted at two user groups: entry-l
 Parts 1 and 2 are for helping entry-level developers get started with AWS, set up the environment and tools, and complete all the necessary tasks to start working on the platform.
 Part 3 is for intermediate-level developers who know the basics of AWS and want to see it in action. It focuses on detailed procedures to deploy code from their local machine to cloud. 🚀
 
-Refer to the [Table of Contents](https://github.com/AhilyaK/aws-docs/blob/main/Table%20of%20Contents.md) and then [Before you start](https://github.com/AhilyaK/aws-docs/tree/main/Before%20you%20start) before diving into the three parts.
+Refer to the [Table of Contents](https://github.com/AhilyaK/aws-docs/blob/main/Table%20of%20Contents.md) and [Before you start](https://github.com/AhilyaK/aws-docs/tree/main/Before%20you%20start) before diving into the three parts.
 
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
