@@ -8,7 +8,7 @@
     * [Set up CLI](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/4.%20set-up-cli.md)
     * [Create EC2 instance](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/5.%20create-EC2-instance.md)   
 * [Part 2: Set up Billing Alerts](https://github.com/AhilyaK/aws-docs/tree/main/Part%202%3A%20Set%20up%20Billing%20Alerts)
-    * [What is a free tier](https://github.com/AhilyaK/aws-docs/blob/main/Before%20you%20start/1.what-is-a-free-tier.md)
+    * [What is a free tier](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/1.%20what-is-a-free-tier.md)
     * [Enable billing alerts and alarms](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/2.%20enable-billing-alerts-and-alarms.md)
     * [Create a cost widget on the dashboard](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/3.%20create-a-cost-widget-on-the-dashboard.md)
 * [Part 3: Deploy Application to AWS](https://github.com/AhilyaK/aws-docs/tree/main/Part%203%3A%20Deploy%20Application%20to%20AWS)
