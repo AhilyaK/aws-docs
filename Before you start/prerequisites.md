@@ -8,7 +8,7 @@
 
 ## Prerequisites for Part 3
 * An AWS account.
-* Knowledge of [EC2](https://aws.amazon.com/ec2/) instances and [S3](https://aws.amazon.com/s3/) buckets.
+* Knowledge of [EC2 or Elastic Compute Cloud](https://aws.amazon.com/ec2/) instances and [S3 or Simple Storage Service](https://aws.amazon.com/s3/) buckets.
 * Knowledge of IP addresses and ports.
 * A code/application file ready to be deployed.
 
