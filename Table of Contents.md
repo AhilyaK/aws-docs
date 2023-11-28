@@ -7,7 +7,7 @@
     * [Enable Multi-Factor Authentication](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/3.%20enable%20multi-factor%20authentication.md)
     * [Set up CLI](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/4.%20set-up-cli.md)
     * [Create EC2 instance](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/5.%20create-EC2-instance.md)   
-* [Part 2: Set up Billing Alerts](#installation)
+* [Part 2: Set up Billing Alerts](https://github.com/AhilyaK/aws-docs/tree/main/Part%202%3A%20Set%20up%20Billing%20Alerts)
     * [What is a free tier](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/1.%20what-is-a-free-tier.md)
     * [Enable billing alerts and alarms](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/2.%20enable-billing-alerts-and-alarms.md)
     * [Create a cost widget on the dashboard](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/3.%20create-a-cost-widget-on-the-dashboard.md)
