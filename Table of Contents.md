@@ -1,4 +1,5 @@
 ## Table of Contents
+
 * [Before you start](https://github.com/AhilyaK/aws-docs/tree/main/Before%20you%20start)
     * [Prerequisites](https://github.com/AhilyaK/aws-docs/blob/main/Before%20you%20start/prerequisites.md)
 * [Part 1: Complete Day 1 Checklist](https://github.com/AhilyaK/aws-docs/tree/main/Part%201%3A%20Complete%20Day%201%20Checklist)
