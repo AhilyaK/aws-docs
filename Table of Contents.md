@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Before you start](https://github.com/AhilyaK/aws-docs/tree/main/Before%20you%20start)
     * [Prerequisites](https://github.com/AhilyaK/aws-docs/blob/main/Before%20you%20start/prerequisites.md)
-    * [What is a free tier](https://github.com/AhilyaK/aws-docs/blob/main/Part%202%3A%20Set%20up%20Billing%20Alerts/1.%20what-is-a-free-tier.md)
+    * [What is a free tier](https://github.com/AhilyaK/aws-docs/blob/main/Before%20you%20start/what-is-a-free-tier.md)
 * [Part 1: Complete Day 1 Checklist](https://github.com/AhilyaK/aws-docs/tree/main/Part%201%3A%20Complete%20Day%201%20Checklist)
     * [Register for a new account](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/1.%20register-for-a-new-account.md)
     * [Create IAM user](https://github.com/AhilyaK/aws-docs/blob/main/Part%201%3A%20Complete%20Day%201%20Checklist/2.%20create-iam-user.md)
