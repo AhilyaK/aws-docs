@@ -19,5 +19,4 @@ These offers do not automatically expire at the end of your 12 month AWS Free Ti
 ## See Also
 To learn more about what is included in the each category, check out [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all).
 
-In parts one and three of the documentation, we have used EC2 instances and S3 buckets that belong to the 12 months free category.       
-Next, we'll see how to enable billing alerts to protect us from surprise expenses.
+In part 1 and part 3 of the documentation, we have used EC2 instances and S3 buckets that belong to the 12 months free category.       
